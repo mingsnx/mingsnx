@@ -37,9 +37,11 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs Code" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://hub.docker.com/">
+  <!--
+    <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
+  -->
 </p>
 <br/>
 
