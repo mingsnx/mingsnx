@@ -5,8 +5,8 @@
  <a href="https://github.com/mingsnx" alt="mingsnx's github stats">
    <img src="https://img.shields.io/badge/-@mingsnx-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="" alt="mingsnx's home">
-   <img src="https://img.shields.io/badge/home-mingsnx.me-brightgreen?style=flat-square" />
+ <a href="https://github.com/mingsnx" alt="mingsnx's home">
+   <img src="https://img.shields.io/badge/home-mingsnx-brightgreen?style=flat-square" />
  </a>
 </p>
 
