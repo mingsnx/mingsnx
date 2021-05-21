@@ -22,11 +22,11 @@
   <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
+  <a href="https://flutter.dev/">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="">
-    <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg" alt="travis" style="vertical-align:top; margin:4px;">
+  <a href="https://dart.dev/">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="travis" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
@@ -40,9 +40,6 @@
   <a href="https://hub.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.jenkins.io/">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
-  </a><br/>
 </p>
 <br/>
 
