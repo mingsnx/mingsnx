@@ -2,11 +2,11 @@
 <h1 align="center">Hi there, I'm mingsnx 👋</h1>
 
 <p align="center"> 
- <a href="https://github.com/seayxu" alt="seay's github stats">
-   <img src="https://img.shields.io/badge/-@seay-%23181717?style=flat-square&logo=github" />
+ <a href="https://github.com/mingsnx" alt="mingsnx's github stats">
+   <img src="https://img.shields.io/badge/-@mingsnx-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://seay.me" alt="seay's home">
-   <img src="https://img.shields.io/badge/home-seay.me-brightgreen?style=flat-square" />
+ <a href="" alt="mingsnx's home">
+   <img src="https://img.shields.io/badge/home-mingsnx.me-brightgreen?style=flat-square" />
  </a>
 </p>
 
