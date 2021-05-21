@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <a href="#" alt="seayxu's github stats"><img src="https://github-readme-stats.vercel.app/api?username=seayxu&show_icons=true" /></a>
+  <a href="#" alt="seayxu's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mingsnx&show_icons=true" /></a>
 </p>
 
 <!--
