@@ -2,11 +2,11 @@
 <h1 align="center">Hi there, I'm mingsnx 👋</h1>
 
 <p align="center"> 
- <a href="https://github.com/mingsnx" alt="mingsnx's github stats">
-   <img src="https://img.shields.io/badge/-@mingsnx-%23181717?style=flat-square&logo=github" />
+ <a href="https://github.com/mingsnx" alt="mingsn's github stats">
+   <img src="https://img.shields.io/badge/-@mingsn-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://github.com/mingsnx" alt="mingsnx's home">
-   <img src="https://img.shields.io/badge/home-mingsnx-brightgreen?style=flat-square" />
+ <a href="https://github.com/mingsnx" alt="mingsn's home">
+   <img src="https://img.shields.io/badge/home-mingsn-brightgreen?style=flat-square" />
  </a>
 </p>
 
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <a href="#" alt="mingsnx's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mingsnx&show_icons=true" /></a>
+  <a href="#" alt="mingsn's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mingsnx&show_icons=true" /></a>
 </p>
 
 <!--
