@@ -35,7 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vs Code" style="vertical-align:top; margin:4px">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px">
   </a>
   <!--
     <a href="https://hub.docker.com/">
