@@ -22,20 +22,23 @@
   <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://flutter.dev/">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="consul" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://dart.dev/">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="travis" style="vertical-align:top; margin:4px;">
-  </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://code.visualstudio.com/">
+  <a href="https://www.javascript.com/">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://flutter.dev/">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" style="vertical-align:top; margin:4px;">
+  </a
+  <a href="https://vuejs.org/">
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" style="vertical-align:top; margin:4px;">
   </a>
   <!--
     <a href="https://hub.docker.com/">
