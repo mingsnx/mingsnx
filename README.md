@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm mingsnx 👋</h1>
+<h1 align="center">Hi there, I'm mingsn 👋</h1>
 
 <p align="center"> 
  <a href="https://github.com/mingsnx" alt="mingsn's github stats">
