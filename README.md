@@ -23,6 +23,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://dotnet.microsoft.com/">
+    <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1536x864.png" height="50px" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <!--https://zh.wikipedia.org/wiki/File:C_Sharp_wordmark.svg-->
+  <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://dotnet.microsoft.com/">
