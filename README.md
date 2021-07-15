@@ -3,10 +3,10 @@
 
 <p align="center"> 
  <a href="https://github.com/mingsnx" alt="mingsn's github stats">
-   <img src="https://img.shields.io/badge/-@mingsn-%23181717?style=flat-square&logo=github" />
+   <img src="https://img.shields.io/badge/-@mingsnx-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://github.com/mingsnx" alt="mingsn's home">
-   <img src="https://img.shields.io/badge/home-mingsn-brightgreen?style=flat-square" />
+   <img src="https://img.shields.io/badge/home-mingsnx-brightgreen?style=flat-square" />
  </a>
  <a href="#" alt="mingsn's home">
    <img src="https://img.shields.io/badge/wx-mingsnx-brightgreen?style=flat-square" />
