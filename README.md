@@ -8,6 +8,12 @@
  <a href="https://github.com/mingsnx" alt="mingsn's home">
    <img src="https://img.shields.io/badge/home-mingsn-brightgreen?style=flat-square" />
  </a>
+ <a href="#" alt="mingsn's home">
+   <img src="https://img.shields.io/badge/wx-mingsnx-brightgreen?style=flat-square" />
+ </a>
+ <a href="#" alt="mingsn's home">
+   <img src="https://img.shields.io/badge/email-mingsn456@gmail.com-ff69b4" />
+ </a>
 </p>
 
 ---
